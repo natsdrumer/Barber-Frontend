@@ -1,0 +1,13 @@
+.appointment-form {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.error-message {
+    color: red;
+    margin-bottom: 20px;
+}
